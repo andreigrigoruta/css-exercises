@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../01-flex-center"
+		},
+		{
+			"path": "../02-flex-header"
+		},
+		{
+			"path": "../03-flex-header-2"
+		},
+		{
+			"path": "../04-flex-information"
+		},
+		{
+			"path": "../05-flex-modal"
+		},
+		{
+			"path": "../06-flex-layout"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
